@@ -6,7 +6,7 @@ import java.awt.event.*;
 public class GraphicsDrawLineMouseEx extends JFrame {
 	private MyPanel panel = new MyPanel();
 	public GraphicsDrawLineMouseEx() {
-		setTitle("drawing Line by Mouse ¿¹Á¦");
+		setTitle("drawing Line by Mouse ï¿½ï¿½ï¿½ï¿½");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setContentPane(panel);
 		setSize(300, 300);
